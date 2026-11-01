@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+go2_diag_*.jsonl
+*.mp4
+*.mov
+.vscode/
