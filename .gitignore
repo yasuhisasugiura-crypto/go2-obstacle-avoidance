@@ -5,3 +5,4 @@ go2_diag_*.jsonl
 *.mp4
 *.mov
 .vscode/
+obstacle_tri_*.obj
